@@ -1,4 +1,4 @@
-IMmuneCite Analysis Pipeline
+IMmuneCite Pipeline
 
 A pre-processing pipeline manual is included in the "Pre-processing" folder of this repository. Detailed descriptions of both the pre-processing pipeline as well as the clustering pipeline are included in our mansucript [https://doi.org/10.21203/rs.3.rs-4571625/v1].
 
